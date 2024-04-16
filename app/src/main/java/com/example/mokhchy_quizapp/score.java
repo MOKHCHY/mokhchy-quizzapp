@@ -33,6 +33,8 @@ public class score extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(), "Merci de votre Participation !", Toast.LENGTH_SHORT).show();
+                mAuth.signOut();
+                startActivity(new Intent(Score.this,MainActivity.class));
                 finish();
             }
         });
