@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406443173007",
+    "project_id": "mokhchyquizzapp",
+    "storage_bucket": "mokhchyquizzapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406443173007:android:047d6f912354e37733fcfa",
+        "android_client_info": {
+          "package_name": "com.example.mokhchy_quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3HWQmrimG0twNNxmlSaoSZr3YLsuwpXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
